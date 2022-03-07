@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onDestroy() {
         super.onDestroy()
-        Toast.makeText(this,"App destruida", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,"App destruidaa", Toast.LENGTH_SHORT).show()
     }
 
 }
