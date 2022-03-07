@@ -7,7 +7,7 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
 
-    var nombre = "EMmanuel"
+    var nombre = "Zeus"
     val NOMBRE = "nombre"
 
     override fun onCreate(savedInstanceState: Bundle?) {
